@@ -1,0 +1,10 @@
+/archive/
+/bm25/
+/.vscode/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.log
+*.zip
